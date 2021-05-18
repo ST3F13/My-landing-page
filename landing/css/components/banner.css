@@ -1,0 +1,12 @@
+.banner {
+    background-image: url('https://miro.medium.com/max/4890/1*VFM8Ocw4TF4Yeaye40IdPA.png');
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+}
+
+.banner p {
+    color: #00FF00;
+    font-size: 48px;
+}
+

@@ -1,0 +1,50 @@
+.footer .fas {
+    color: #BF0F12;
+}
+
+.fa, .fas {
+    font-weight: 900;
+}
+
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+}
+
+.fa, .fab, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
+.footer h2 {
+    color: white;
+}
+
+.footer p {
+    color: #6B6C6C;
+}
+
+.footer {
+    text-align: center;
+    padding: 40px;
+    background-color: #2c2b2b;
+}
+
+.fa-wagon:before {
+    content: "\f004";
+}
+
+.footer a {
+    color: #3686D7;
+    font-size: 40px;
+    padding: 0 8px;
+}
+
+.fab:hover {
+  color: #C7C6C6;
+  transform: scale(1.5);
+}
